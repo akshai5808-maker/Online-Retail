@@ -50,4 +50,4 @@ jobs:
 
        cd services/catalog-service
 
-       docker build -t catalog-service:ci
+       docker build -t catalog-service:ci .
